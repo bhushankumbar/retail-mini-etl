@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project-specific local artifacts
+.venv/
+__pycache__/
+data/raw/
+data/processed/
+db/*.db
